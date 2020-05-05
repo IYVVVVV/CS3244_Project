@@ -39,3 +39,7 @@
     - /Test
         - /Real
         - /Fake
+
+## Result
+- [Result in google drive](https://drive.google.com/open?id=1VXFUUoDgqzKrK1rhxJtqC9cioBO-QC0m)
+- [Group Report](https://github.com/IYVVVVV/CS3244_Project/blob/master/doc/Deepfake%20Video%20Detection%20Using%20Neural%20Networks.pdf)
